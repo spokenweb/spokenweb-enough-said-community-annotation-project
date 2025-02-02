@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "spokenweb",
+    "is_private": false,
+    "title": "Enough Said-AVAnnotate Community Annotation Project",
+    "description": "Exhibition of recordings of the Enough Said reading series that took place in Montreal from 1995 to 1996. Annotations include AV description and commentary by performers gathered through online watch parties on Zoom. ",
+    "language": "en",
+    "slug": "spokenweb-enough-said-community-annotation-project",
+    "creator": "spokenweb",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "aviary",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-02-02T21:01:45.750Z",
+    "updated_at": "2025-02-02T21:01:45.750Z"
   }
 }
