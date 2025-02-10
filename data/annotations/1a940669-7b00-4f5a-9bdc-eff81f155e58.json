@@ -1,5 +1,1302 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "uuid": "c0743211-122d-416a-a05f-139fd49c3cf1",
+      "start_time": 11,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (voices).] | Video Description: Colour video. A plain performance space (55 Avenue des Pins East, 2nd floor), with a large stage (as revealed later in clip) with a microphone and long, grey curtains hanging from a rafter in the background.\nEndre Farkas"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1d8b59cd-2de9-4703-bb00-0de0f950996c",
+      "start_time": 12,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience laughter Introduces set and first poem, \"For Those Who Deny the Holocaust\" (from Surviving Words, The Muses' Co., 1994), mentioning the neo-nazi Ernie Zundel.] | Video Description: Closeup on Endre Farkas addressing the audience at the microphone. Short salt-and-pepper hair, fedora, leather jacket.\nEndre Farkas"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a9c49370-0f70-4b6f-bade-382189a589d6",
+      "start_time": 72,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"For Those Who Deny the Holocaust\". Audience laughter throughout.] | Video Description: Endre Farkas reads into the microphone, glancing down occasionally, then back up to look across the audience.\nEndre Farkas"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1fc4170a-7096-4ad3-b240-e64a6476c82f",
+      "start_time": 144,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Audience applause. Introduces \"The Missing Link\" (from Surviving Words).] | Video Description: Endre Farkas addresses audience, introducing the next poem.\nEndre Farkas"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "400f21d9-5917-420e-b060-ff1ac73f7e6c",
+      "start_time": 168,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"The Missing Link\".] | Video Description: Endre Farkas reads into the microphone.\nEndre Farkas"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "58f452c3-3b72-41e3-9c3a-a185aa86adbc",
+      "start_time": 330,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Audience applause. Introduces \"O Canada.\"] | Video Description: Endre Farkas puts an unseen object down, before addressing audience.\nEndre Farkas"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5fe9a2bc-33cf-48dd-ba9b-57fd6791d8b1",
+      "start_time": 359,
+      "end_time": 396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"O Canada\".] | Video Description: Camera zooms out to medium closeup on Endre Farkas, reading to audience.\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3e0ee284-ccc8-4755-b6b8-8da2afb748d4",
+      "start_time": 396,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Camera zooms into closeup on Endre Farkas.\nEndre Farkas"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1945135c-4954-41fb-bcae-6f7e65e6fae6",
+      "start_time": 648,
+      "end_time": 652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Audience applause.] | Video Description: Endre Farkas addresses audience and steps away from microphone. Camera zooms out as Farkas walks across the stage, exiting on the right-side of the frame.\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "89388b1b-a9e0-40af-b904-2ef59573575b",
+      "start_time": 652,
+      "end_time": 656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] Video Description: Camera cut. VCR static.\nUnknown_Reader1"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "319b39c3-6a81-4270-8151-8a0356fb5f35",
+      "start_time": 656,
+      "end_time": 672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Audience member interacts with Unknown_Reader1 (howls like a dog). Audience laughter. Introduces Unknown Poem 1.] | Video Description: Closeup on Unknown_Reader1 addressing audience into the microphone. Short light hair under toque. Moustache and beard. Rectangular-shaped glasses frames.\nUnknown_Reader1"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "794fdf5d-7815-4147-8d25-5468104f257e",
+      "start_time": 672,
+      "end_time": 732,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads Unknown Poem 1 (\"Yes, our time passes and only dreams save us…\").] | Video Description: Unknown_Reader1 reads into microphone. Camera zooms out to medium closeup, revealing Unknown Performer 1 reading from a pieces of paper in an open binder.\nUnknown_Reader1"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8c0ff7aa-9f5d-4c13-83d9-724b9b3e95b7",
+      "start_time": 732,
+      "end_time": 739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Addresses audience. Audience applause.] | Video Description: Unknown_Reader1 looks up to audience and addresses them. Applauds along with audience after encouraging applause for \"the boys\" (likely to mean organizers Ian Ferrier and Lee Gotham). Camera shakes while zooming out to medium shot. Unknown_Reader1 walks from microphone toward stage right.\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "81767403-a9f7-43f5-8c73-ef38af2f4fd9",
+      "start_time": 739,
+      "end_time": 744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] Video Description: Camera cut. VCR static.\nFortner Anderson"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "40645c67-7ae3-4557-b0fd-ec8d599a36d5",
+      "start_time": 744,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now I don't know how many of you have been around Saint Lawrence street over the last several years—Is Chancey (?) here? Chancey? [Audience member responds.] Still in the room? Oh, he (?) just stepped out. Well, there were a couple of readings that have gone on up and down Saint Lawrence street over the several years. Off the Boulevard, Chancey and Peter worked on for a long time. The current incarnation is a wonderful series of readings that occur each Monday night around 9 o'clock at the Bistro 4, that's the corner of Duluth and Saint Lawrence. They're curated, managed, put together by our next reader, Lee Gotham, hailing from Britain, here in Montreal now five years. I'd like you all to welcome Lee. [Audience applause. Ambient sounds (voices).] | Video Description: Closeup on event host, Fortner Anderson, looking toward the audience and addressing them through the microphone. Short grey hair. Black browline glasses. Dark collared shirt. Anderson briefly diverts attention off-stage before resuming addressing audience. Nods at conclusion of introductory marks to Lee Gotham, exiting via the left side of the frame. Camera zooms out to a medium long shot on the lone microphone, bathed in the glow of a spotlight hanging on stage right. Lee Gotham enters the stage via stage right. Long brown hair tied in bun, beard, wearing a loose shirt and dark trousers. Camera zooms into medium closeup as Gotham picks up microphone from its stand, moving the stand away to stage left.\nLee Gotham"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "09841915-3ceb-44d9-8023-4c666dc0b2e2",
+      "start_time": 824,
+      "end_time": 884,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Begins performing Unknown Poem 1 (\"The problem is we get wasted in alleyways…\").] | Video Description: Camera zooms into medium closeup shot on Lee Gotham pacing slowly across the stage, performing Unknown Poem 1.\nLee Gotham"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "29ca8471-3f4e-4948-b6cf-6806ea481494",
+      "start_time": 901,
+      "end_time": 930,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pauses. Addresses audience. Vocalizes. Audience members briefly interacts.] | Video Description: Lee Gotham stands still while reciting Unknown Poem 1. Lee Gotham breathes before addressing audience. Camera zoom into closeup as Gotham pauses and closes eyes. Gotham hums into microphone.\nLee Gotham"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e2af06e5-dc7b-4cd6-95d8-a9c807bada53",
+      "start_time": 930,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Begins performing Unknown Poem 2 (\"Those wheels…\")]. | Video Description: Lee Gotham performs into microphone, pacing around the stage. Camera zooms in and out between medium closeup and extreme closeup on Gotham.\nLee Gotham"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8f238b20-0429-40d4-921d-6ac9e4a3656d",
+      "start_time": 957,
+      "end_time": 996,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transitions into addressing audience. Audience laughter. Audience applause. Addresses audience member (Drew). Audience laughter. Addresses audience, causing more audience laughter and applause.] | Video Description: Lee Gotham addresses audience. Lee Gotham laughs and smiles at the applause. Camera zooms into closeup on Lee Gotham, who looks into camera lens and addresses unseen audience member (Drew; camera-person?). Gotham addresses audience, walking toward stage right.\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2b8433f3-7494-44a5-b52b-d2f6a618ff88",
+      "start_time": 996,
+      "end_time": 1001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Audio cut. Audience applause. Ambient sounds (voices).] Video Description: Camera cut. Medium longshot view of microphone on stage, with a black background and wires around white rafters on the ceiling. Camera zooms into extreme closeup as Fortner Anderson walks on from from stage right. Anderson laughs.\nFortner Anderson"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7caaac9e-6f24-4e88-8032-c1b83b2de703",
+      "start_time": 1001,
+      "end_time": 1043,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's a long (?) conclusion to our first set. [Audience laughter.] But he'll be back, he'll be back, he's promised to come back in the third set. He's poring over his texts as we speak. [Audience laughter.] Now, I'd like to remind you all that the recession is now officially over, and you can spend your hard-earned money back at the beer fountain, each and every one of you should drink (?) two or three. [Audience laughter, ambient sounds (voices)]. Now I'd like to introduce our musical interlude with the Hieronymus Borscht (sic!) Nonet, and we'll be back in about fifteen-twenty minutes for our second set. It's going to be all groups (?). [Ambient sounds (tuning instrument). Audience interaction (whistle).] | Video Description: Camera zooms in and out on Fortner Anderson addressing audience, pacing across the stage. Camera pans across stage, ceiling, and floor of the venue.\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8e92da41-2975-47c2-bfa4-396a78a1b9fa",
+      "start_time": 1043,
+      "end_time": 1048,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] Video Description: Camera cut. VCR static.\nHieronymus Borscht Nonet"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bd913e99-1309-40b7-9a99-5dfe2590d3d8",
+      "start_time": 1048,
+      "end_time": 1108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs Unknown Composition. Ambient noise (voices).] | Video Description: Camera zooms into closeup on a guitarist (Sam Shalabi; yellow shirt, short dark hair, glasses) who glances between sheet music and guitar, chewing something. Camera zooms out to medium shot of the two musicians, including a pianist (Unknown_Performer2; patterned shirt, white pants, short dark hair), next to amps on stools and sitting before two large-paned windows. Camera zooms into closeup on Unknown_Performer2 who reads the sheet music while playing. An audience member briefly passes in front of the camera's view. Camera continues to pan between Shalabi and Unknown_Performer2, and zoom in and out.\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ef2a0e83-82f0-417c-9efd-1e5d6187d48b",
+      "start_time": 1128,
+      "end_time": 1132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] Video Description: Camera cut. VCR static.\nLee Gotham"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9889cd58-259f-4508-aa17-15882301c491",
+      "start_time": 1132,
+      "end_time": 1134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Vocalizes (mic check).] | Video Description: Camera cuts to closeup on the side profile of Lee Gotham, speaking into microphone and facing stage-right.\nLee Gotham"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "92f5cc36-a11c-468c-9ad2-6da5ebebd06c",
+      "start_time": 1134,
+      "end_time": 1191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome back, one and all, to our second set. Please, all hecklers, remember that you had your chance earlier, so just mellow for a moment. Okay, in the second set of our presentation, we have for you some amazing groups. We have Swifty Lazar, Corey, Colin Frost (Corey Frost and Colin Christie) from ga Press, le Groupe de Poesie Moderne, and the Fluffy Pagan Echoes, all in one very nice package. [Audience laughter.] Before we get to all that, I'm making amends for my little false start. And as I have a microphone in front of me, as well as text— [Audience laughter. Lee Gotham laughs.] I'll go for it. | Video Description: Lee Gotham speaks into microphone, addressing audience. An audience member briefly passes in front of camera view. Gotham briefly glances down at pieces of paper while addressing audience.\nLee Gotham"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d80f08eb-fc7c-4824-83d3-d8793bb45c00",
+      "start_time": 1191,
+      "end_time": 1251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads Unknown Poem 1 (\"The problem is we get wasted in alleyways…\").] | Video Description: Camera zooms in and out between extreme closeup and medium closeup on Lee Gotham, who wraps a hand around the microphone and performs poem, occasionally glancing down at pages.\nLee Gotham"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cf62e683-e1cf-4afa-a0a5-785d1fc8a19e",
+      "start_time": 1308,
+      "end_time": 1311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pauses. Ambient noise (paper).] | Video Description: Lee Gotham briefly pauses performance to flip a page.\nLee Gotham"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4d1107eb-ebc0-4a1e-9bda-df6942010c03",
+      "start_time": 1311,
+      "end_time": 1371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Resumes Unknown Poem 1.] | Video Description: Lee Gotham resumes performing poem. Camera zooms out between medium long shot and medium shot on Gotham.\nLee Gotham"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2b859942-eead-4acd-b993-1e897b5bf681",
+      "start_time": 1454,
+      "end_time": 1505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Audience applause. Addresses audience. Introduces Swifty Lazar. Audience applause.] | Video Description: Lee Gotham addresses audience before putting stage of pages down on the stage. Camera zooms out to medium long shot as Lee Gotham reaches over to grab another piece of paper, and walks back to microphone. Gotham glances down at paper and addresses audience. Camera pans away from Lee Gotham to stage right, where Tom Walsh (on synthesizers) and Todd Swift (vocalist) are setting up. There is a synthesizer, a music stand, and a microphone. Walsh and Swift are both dressed in black suit jackets . A ceiling fan above them is briefly seen, as well as an unknown audience member sitting on the sill of one of the large-paned windows. Lee Gotham briefly passes through the camera's view, walking off via stage right.\nSwifty Lazar (Todd Swift and Tom Walsh)"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "38f9348d-e985-4e55-9ec2-b3cd889a145e",
+      "start_time": 1505,
+      "end_time": 1565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Play unknown broadcast.] | Video Description: Camera zooms into a medium shot on Todd Swift. Short, dark hair. Browlined glasses. Black bowtie. Todd Swift puts on headphones. Camera zooms out, revealing Tom Walsh (chin-length dark hair, glasses) programming the synthesizers. Swift puts a cigarette in mouth. Camera zooms into a medium shot on Walsh, also putting on headphones. Camera pans between the performers.\nSwifty Lazar"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f3f6bf32-5cab-4708-8280-0f0e56a4815e",
+      "start_time": 1617,
+      "end_time": 1677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Perform series of unknown compositions.] | Video Description: Tom Walsh presses a key on synthesizer, cueing a new audio clip. Camera zooms into Todd Swift, lift a stack of pages and beginning to perform. Camera zooms in and out and pans between the performers. Occasionally the performers sit or squat on stage to sip from glasses, or employ various objects to enhance the performance, such as a handheld radio or newspaper.\nSwifty Lazar"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c917fb90-6242-4789-97c0-071914a08bdd",
+      "start_time": 2502,
+      "end_time": 2511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes unknown compositions. Audience applause.] | Video Description: Todd Swift and Tom Walsh bow and walk away from their equipment.\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c09ac399-5b13-49aa-a3f2-2357945ca9e3",
+      "start_time": 2511,
+      "end_time": 2515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] Video Description: Camera cut. VCR static.\nga press (Colin Christie and Corey Frost)"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ac7b5abf-0910-4b66-b755-edfd3c70eb8d",
+      "start_time": 2515,
+      "end_time": 2575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient noise (footsteps, movement). Performs Unknown Composition 1. Audience laughter throughout.] Video Description: Camera cuts to a medium long shot on Colin Christie (short, brown hair, grey t-shirt over long sleeve shirt), standing before the microphone, and Corey Frost (long, black hair, glasses, white t-shirt, light wash jeans) on stage, who look at each other. A physical 'dialogue' solely using movement and gestures is acted out by the performers. Christie walks in a circle before arriving at a second microphone set up on stage. Christie pulls out something from a back pocket as Frost stands upstage left. Christie takes out a harmonica from a case and plays it. Frost picks up the microphone out of the free stand and begins reciting a poem. Camera zooms into a closeup on Frost. Camera zooms out to a medium long shot and pans to also capture Christie. Frost and Christie pace around the stage and gesture throughout to accentuate the performance.\nga press"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "24a2be28-ee6c-4d88-ba92-a2ddf3997e21",
+      "start_time": 2985,
+      "end_time": 3045,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Audience applause. Corey Frost promotes the upcoming ga Press book launch at Enough Said, featuring new work by Sandra Jeppesen and Chris Bell. Audience laughter. Colin Christie addresses audience. Corey Frost resumes promoting ga Press catalogue. Audience applause.] | Video Description: Colin Christie and Corey Frost step away from microphones, bow, and then reapproach them. Christie and Frost address audience. They step away from microphones and exit via stage left.\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e996b9f0-eef9-4d33-9242-1e13e69553c4",
+      "start_time": 3066,
+      "end_time": 3071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Camera cut. VCR static.\nGroupe de Poesie Moderne (GPM)"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "316d4b7d-e3e1-438e-b39d-fbf246d43f17",
+      "start_time": 3071,
+      "end_time": 3131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (voices; footsteps; opening and closing door; dog barking.) Unknown Member 2 of GPM addresses Unknown Member 1 and the audience. Ambient sounds (opening and closing door; footsteps).] | Video Description: Camera cuts to a long shot of an open stage area, a black grimy wall as a background and white floor, with a microphone stand downstage centre, a black milk crate upstage centre, and a ladder and building materials pushed to the side. Camera pans toward the right, revealing multiple audience members sitting along the side of the stage, and a person entering, dressed in black turtleneck and black pants. The entering person closes a door behind them and walks onto the stage. They lift a piece of paper to read as they step up on the milk crate. Camera zooms into a medium long shot of this person (dark hair in two braids, large belt buckle, lipstick). Another person (long dark hair pulled into a ponytail, black turtleneck, black pants) enters the frame via stage left, holding a cue card in their left hand. They address their fellow performer and the audience, before taking position facing away from the audience upstage left. Slowly, other members of the group, each wearing the same all-black 'uniform', enter through the door and taking position across the stage, all facing away from the audience.\nGroupe de Poesie Moderne (GPM)"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "089c6671-8068-47ec-86b4-d377449f2f98",
+      "start_time": 3150,
+      "end_time": 3210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Perform Unknown Composition 1. Audience laughter throughout.] | Video Description: Camera zooms into a closeup on the member standing on the milk crate beginning the performance, reading from the piece of paper and swivelling to address everyone in the room. Camera zooms in and out throughout and pans to follow other members of the group, who perform a series of dramatic skits. At 01:02:31, a dog casually walks across the stage as the group performs, exiting stage left.\nGroupe de Poesie Moderne (GPM)"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7ddbe0b2-2d37-46a0-b83b-b4a72d999856",
+      "start_time": 4025,
+      "end_time": 4050,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Unknown Member 3 thanks audience. Audience applause.] | Video Description: The group ends in neutral standing positions, and Unknown Member 3 addresses audience. 5 of the 7 members of GPM walk into to a single line downstage centre, while two remain upstage, facing away from the audience. The two upstage members walk downstage and kneel into positions behind the line, facing stage left and stage right respectively.\nGroupe de Poesie Moderne (GPM)"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f96f11ab-8dcd-4171-bbfc-edbe5c58fa4a",
+      "start_time": 4050,
+      "end_time": 4110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (dog barking). Performs Unknown Composition 2. Audience laughter throughout.] | Video Description: The GPM assumes new dramatic positions and perform their second dramatic skit. At 01:07:51, the previous dog walks across the stage behind the performers, exiting stage left. Camera zooms in and out and pans throughout to follow the performers moving across the stage.\nGroupe de Poesie Moderne (GPM)"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "798112a9-6a80-43a9-b2f5-03d29159ea46",
+      "start_time": 4247,
+      "end_time": 4261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finish Unknown Composition 2. Audience applause. Ambient sounds (dog barking).] | Video Description: The GPM filters one-by-one off the stage, exiting stage left. Camera pans right, capturing the members leaving through a door. Camera continues panning right across the applauding audience, who fill the room right to the back wall. Camera sharply pans left toward the stage, empty except for the black milk crate and a microphone stand.\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "59aae03d-b339-42b8-b2ce-2144c5a4e9da",
+      "start_time": 4261,
+      "end_time": 4265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Camera cut. VCR static.\nFluffy Pagan Echoes"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f2dabf02-8f5a-4c08-bcac-cc8077abff8a",
+      "start_time": 4265,
+      "end_time": 4325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Audience applause. Vocalizing (repeating \"toy boat\" at different volumes and tones). Ambient sounds (movement, dog barking). Vocalizing begins to cohere at the same volume and rhythm.] | Video Description: Camera cuts to a long shot of the open stage area, with the black milk crate in the centre of the stage. An unknown audience member walks across the stage. An unknown person moves a microphone stand closer to centre stage. Camera pans toward them as they exit stage right. Two people enter the stage from stage right. Camera pans toward the right, where another set of performers is seen running and walking into the stage area. Members of the Fluffy Pagan Echoes move around the stage, each doing different actions, such as stomping, speaking into different microphones, or examining different parts of the stage. They assemble downstage centre, moving microphones closer to centre stage. Camera zooms into a medium closeup on one performer (Victoria Stanton) and pans right to capture each Fluffy Pagan Echoes member: Ran Elfassy (shaved head, white graphic t-shirt, necklace), Victoria Stanton (shoulder-length brown hair, black vest over long-sleeved grey shirt), Scott Duncan (chin-length white hair, glasses, white graphic t-shirt, jeans), Vincent 'Vince' Tinguely (short curly brown hair, flannel shirt), and Justin McGrail (yellow pattered shirt over graphic t-shirt, short brown hair, necklaces).\nFluffy Pagan Echoes"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f680446a-2113-4b2b-85be-5f0e56a39212",
+      "start_time": 4341,
+      "end_time": 4362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Address audience (introduces each member: Ran Elfassy, Victoria Stanton, Scott Duncan, Vince Tinguely, and Justin McGrail).] | Video Description: The Fluffy Pagan Echoes address audience. The camera zooms into an extreme closeup on Ran Elfassy, looking toward the other members and counting them in.\nFluffy Pagan Echoes"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "faf118d3-317d-49f6-a2d6-bd051e272361",
+      "start_time": 4362,
+      "end_time": 4422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Perform \"Resistance is Reasonable\".] | Video Description: Fluffy Pagan Echoes perform \"Resistance is Reasonable\". Camera zooms into first a medium closeup, then an extreme closeup, on Victoria Stanton, who performs a solo during the piece. Camera zooms out into long shot of the entire group.\nFluffy Pagan Echoes"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f4bd9e31-f90b-4f85-806d-5b4e049a649f",
+      "start_time": 4594,
+      "end_time": 4611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finish \"Resistance is Reasonable\". Audience applause. Ambient sounds (voices, movement).] | Video Description: Fluffy Pagan Echoes members bow. Ren Elfassy picks up an object from the floor (a hat?). The group exits via stage right.\nLee Gotham"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "09d44615-2289-4949-bdfd-73349dc83ff4",
+      "start_time": 4611,
+      "end_time": 4642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Audience laughter. Addresses audience. Announces ten-minute break and upcoming set, including Ian Stephens. Promotes merchandise table.] | Video Description: Camera zooms into extreme closeup on microphone stand on stage left. Lee Gotham leaps into frame, behind microphone, and addresses audience. Gotham reads final set from a piece of paper.]\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b4094246-e8f8-4601-867a-d0dc14847861",
+      "start_time": 4642,
+      "end_time": 4646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Camera cut. VCR static.\nDee Smith"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "dd48d817-3541-42cd-8b67-cd4bd2f90e73",
+      "start_time": 4646,
+      "end_time": 4656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Introduces Unknown Poem 1. Addresses audience. Audience laughter.] | Video Description: Camera cuts to closeup on the side profile of Dee Smith (short dark curly hair with headband, white shirt, patterned vest, necklace, earrings, rings). They address the audience with the microphone.\nDee Smith"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7f4b2466-63a6-40f3-857e-62ea43f8064f",
+      "start_time": 4656,
+      "end_time": 4714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs Unknown Poem 1.] | Video Description: Dee Smith performs poem, occasionally glancing down to read from paper.\nDee Smith"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9c827b87-da96-4b84-9467-18b2102b19a4",
+      "start_time": 4714,
+      "end_time": 4723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes Unknown Poem 1. Audience applause. Addresses audience.] | Video Description: Dee Smith flips through pages. Camera zooms into extreme closeup as Dee Smith addresses audience.\nDee Smith"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7188cdfe-c09d-4866-a037-800636bb0702",
+      "start_time": 4723,
+      "end_time": 4775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Transitions into Unknown Poem 2.] | Video Description: Camera zooms out into closeup on Dee Smith performing, occasionally glancing down to read from pages.\nDee Smith"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5c6b75df-222b-463e-b381-77422e266cf5",
+      "start_time": 4775,
+      "end_time": 4798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes Unknown Poem 2. Unseen audience member interacts. Audience applause. Introduces Unknown Poem 3 and addresses audience. Audience snaps and stomps to a rhythm.] | Video Description: Dee Smith addresses audience. Dee Smith directs audience to keep rhythm by snapping.\nDee Smith"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b246e182-719e-4148-9bf3-b81b1ad54cbb",
+      "start_time": 4798,
+      "end_time": 4858,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs Unknown Poem 3. Audience snaps and stomps alongside.] | Video Description: Camera zooms out to medium closeup on Dee Smith performing, glancing down occasionally at their notebook.\nDee Smith"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0c5536bd-01bd-452e-b2c4-394c381414d6",
+      "start_time": 4880,
+      "end_time": 4920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes Unknown Poem 3. Audience applause. Addresses audience. Audience laughter. Dedicates Unknown Poem 4. Audience laughter. Introduces Unknown Poem 4.] | Video Description: Unknown Performer 3 flips through notebook. Unknown Performer 3 addresses audience.\nDee Smith"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a84a28dc-14c4-434f-9a6d-1751a6da9950",
+      "start_time": 4920,
+      "end_time": 4980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs Unknown Poem 4, in Jamaican dialect.] | Video Description: Dee Smith performs poem written in notebook.\nDee Smith"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "23bd96cb-e27a-4167-be80-dd6c324284f7",
+      "start_time": 5033,
+      "end_time": 5038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Audience applause.] | Video Description: Dee Smith closes notebook and thanks audience. Camera zooms out to medium long shot as Unknown Performer 3 tilts microphone stand down and walks off stage via stage left.\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "89a9851f-9d8e-4085-80b9-0ea8775ac258",
+      "start_time": 5038,
+      "end_time": 5039,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Camera cut.\nIan Ferrier"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fec514e5-4797-4363-ab18-ff4661626491",
+      "start_time": 5039,
+      "end_time": 5077,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you very much, Dee Smith. Dee will also be appearing at part of the Enough Said series on April 3rd, if anybody wants to catch that, so please come out for that. Our next performer has been touring all over the place. He's about to head to Europe. He's been touring North America with a show called The Men's Show (?). He's a vital part of a group called Rhythactivism (?), and he's an amazing performer, Mr. Norman Nawrocki. [Audience applause.] | Video Description: Camera zooms into extreme closeup on Ian Ferrier (chin-length dark hair, dark collared long-sleeved shirt, black jacket) addressing audience with the microphone. Ian Ferrier looks up and tilts microphone down before exiting the frame via the left. Camera zooms out to a medium long shot on the lone microphone on stage.\nNorman Nawrocki"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "85fe9b18-fa9d-406f-9689-586b2739a99c",
+      "start_time": 5077,
+      "end_time": 5108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Addresses Ian Stephens. Audience applause. Ambient sounds (dog barking). Introduces \"Hey, Garcon! Another Hotdog, Right Here!\".] | Video Description: Norman Nawrocki (short brown hair with fringe, long-sleeved black sweatshirt) enters via stage left. Camera zooms in and out on Norman Nawrocki adjusting microphone and addressing audience. Norman Nawrocki turns toward stage right to address off-screen audience member (Ian Stephens). Camera zooms into extreme closeup on Norman Nawrocki introducing poem.\nNorman Nawrocki"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a4525cbd-e2b0-4e98-8494-0b67ee187590",
+      "start_time": 5108,
+      "end_time": 5168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs \"Hey, Garcon! Another Hotdog, Right Here!\". Audience laughter throughout.] | Video Description: Camera zooms in and out on Norman Nawrocki performing poem, glancing down to read from sheet of paper.\nNorman Nawrocki"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e657d43b-8a6f-49c6-9a75-00611710f5e0",
+      "start_time": 5291,
+      "end_time": 5303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Audience applause.] | Video Description: Norman Nawrocki nods and thanks audience. Camera zooms out to long shot as Norman Nawrocki exits via stage left. Ian Ferrier, with a cigarette and piece of paper in hand, approaches microphone stand via stage right. An audience member briefly passes through camera view.\nIan Ferrier"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3d8578e7-52c6-4485-87a1-1c49a44bd608",
+      "start_time": 5303,
+      "end_time": 5356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses Norman Nawrocki. Promotes upcoming poetry events: Enough Said with Endre Farkas (March 27, 1995); Vox Hunt poetry slam (hosted by Todd Swift, Tuesday, April 4, 1995, Maître (?) Renard Blues Bar, 4910 Saint-Laurent Boulevard). Introduces Fortner Anderson. Audience applause.] | Video Description: Ian Ferrier addresses Norman Nawrocki (off-screen). Ian Ferrier addresses audience. Ian Ferrier exits via stage right.\nFortner Anderson"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b2450d89-b69a-4290-bb39-648893d1b761",
+      "start_time": 5356,
+      "end_time": 5370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (movement).] | Video Description: Camera zooms out into medium long shot as Fortner Anderson enters via stage left. Fortner Anderson picks up microphone and unravels cord from around stand. Anderson puts hand to chin and steps sideways, facing stage left. Camera zooms into an extreme closeup as Fortner Anderson looks toward audience.\nFortner Anderson"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a3455170-55c8-421f-8206-b2a51ef51856",
+      "start_time": 5370,
+      "end_time": 5430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs Unknown Poem 1 (\"I hate these poems. They stink of the Good Book…\". Audience laughter throughout.] | Video Description: Fortner Anderson performs Unknown Poem 1, pacing throughout the stage, occasionally making gestures to accentuate performance and add humour.\nFortner Anderson"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f14003af-f802-4eb0-a356-e305fc1d3100",
+      "start_time": 5665,
+      "end_time": 5680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Finishes Unknown Poem 1. Audience applause.] | Video Description: Fortner Anderson puts microphone back onto stand and nods to the audience. Camera zooms out as Anderson exits via stage right.\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f3f7a528-f494-467e-8d69-b0ef5bb88ed2",
+      "start_time": 5680,
+      "end_time": 5686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Camera cut. VCR static.\nIan Ferrier"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "de1b7b4a-4b04-44f3-a810-4c50be41186e",
+      "start_time": 5686,
+      "end_time": 5731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Audience laughter. Addresses audience. Introduces medley recording from Ian Stephens' newest cassette (from Wired on Words Productions) and Ian Stephens. Audience applause.] | Video Description: Cut to camera zooming into extreme closeup on side profile of Ian Ferrier standing at microphone, addressing audience. Ferrier exits via stage right. Camera zooms out to long shot of the lone microphone on stage.\nIan Stephens"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e51c7958-37db-4320-a529-280088d910cb",
+      "start_time": 5731,
+      "end_time": 5791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (voices, coughs, movement, dog barking). Unknown Ian Stephens' medley fades in plays. Ian Stephens performs Unknown Composition 1.] | Video Description: Camera tilts before positioning upright again. Ian Stephens (brown jacket, darkwash jeans, black hooded sweatshirt, backward baseball cap) walks on via stage right carrying a chair, putting it down centre stage. Stephens places a bottle on the black milk crate behind the chair. Stephens points and nods to an audience member (off-screen). Stephens takes off brown jacket and drops it next to the black milk crate. Stephens walks up to the chair, takes out a book, drops it on the floor in front of him, and searches pockets. Stephens walks back to brown jacket and searches it for a yellow object. Camera tilts up and zooms into closeup to capture Stephens removing hat, dropping it on the floor, and putting hoodie over his head. Stephens begins wrapping his head in yellow caution tape. Stephens takes out a set of bottom veneers from sweatshirt pocket. Camera zooms into an extreme closeup as Stephens places the veneers in his mouth, attempting to chew and breathe through a small slit between the tape. Camera zooms out to a long shot and pans up and down to capture Stephens' entire figure on stage, with caution tape draping to the floor. Stephens bends and limps, sitting in the chair centre-stage, making himself smaller and smaller. Camera zooms into a closeup of the fingerless gloves on Stephens' hands. Stephens twitches to certain words in the recording. Stephens stands, waving his arms around him, and approaches the microphone stand. Camera zooms into extreme closeup as Stephens holds onto the microphone stand and vocalizes into microphone.\nIan Stephens"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "aa301444-49e2-475e-905d-8007e8d91542",
+      "start_time": 6095,
+      "end_time": 6116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Audience applause.] | Video Description: Ian Stephens addresses audience before stepping away from microphone stand. Ian Stephens unravels caution tape from around head and pops out veneer. Ian Stephens adjusts microphone and stares out at audience.\nIan Stephens"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d187f326-dc9b-4826-a1fe-eb41384e7a16",
+      "start_time": 6116,
+      "end_time": 6176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Performs Unknown Composition 2 (\"If I can't have you…\").] | Video Description: Camera zooms in and out on Ian Stephens performing into the microphone.\nIan Stephens"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3b815425-b51a-497b-b0b6-5fe6ad09abee",
+      "start_time": 6201,
+      "end_time": 6261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Live instrumentation (guitar (?), bass (?), piano) fades into Unknown Composition 2. Audience laughter throughout.] | Video Description: Ian Stephens nods head at an unknown musician (off-screen) as he continues to perform Unknown Composition 2. Ian Stephens lifts microphone from stand and performs pacing across the stage, camera panning and zooming in and out to follow his movements.\nIan Stephens"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "48b28e82-d991-4a4b-a993-6e1dec2eac52",
+      "start_time": 6388,
+      "end_time": 6409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Audience applause.] | Video Description: Ian Stephens thanks audience and walks toward centre stage. Ian Stephens places microphone in stand and picks book off of floor. Ian Stephens flips through book.\nIan Stephens"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e1f66856-ced0-404f-b3ea-91a859e42608",
+      "start_time": 6409,
+      "end_time": 6453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Addresses audience. Thanks Fortner Anderson and Ian Ferrier. Audience applause. Thanks Endre Farkas for assistance with Diary of a Trademark (The Muses Co., 1995). Introduces \"Do You Want a Colour TV?\" from Diary of a Trademark. | Video Description: Ian Stephens addresses audience into the microphone. Stephens thanks Fortner Anderson and Ian Ferrier, applauding along with audience. Stephens addresses audience.\nIan Stephens"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b3e63d12-5405-49f8-b9e6-e5955eb2d910",
+      "start_time": 6453,
+      "end_time": 6513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads \"Do you Want a Colour TV?\".] | Video Description: Ian Stephens reads from book in his hand into the microphone, glancing up occasionally at the audience.\nIan Stephens"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cee9252b-b180-47d0-8c28-bc681bf4caa8",
+      "start_time": 6542,
+      "end_time": 6565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks audience. Audience applause.] | Video Description: Ian Stephens addresses audience and starts to walk off stage. Stephens collects items from floor and unwraps caution tape from around his shoulders. Camera pans to follow Stephens walking off via stage right. Camera pans back to a long shot of the stage. Camera zooms into a closeup as Ian Ferrier enters via stage right, approaching the microphone.\nIan Ferrier"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0596f928-dd56-4348-9081-9ec89f73c253",
+      "start_time": 6565,
+      "end_time": 6598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Ian Stephens. Addresses audience. Audience member (Ian Stephens?) interacts (calling out \"buy it!\"). Audience laughter. Ian Ferrier promotes Ian Stephens' cassette. Introduces Aidan (?) Evans. Announces end of event, mentioning that the pianist of the Hieronymus Borscht Nonet will keep playing the piano while the bar remains open. Audience applause.] | Video Description: Ian Ferrier addresses audience. Ferrier laughs at unseen audience member's (Ian Stephens?) remark and resumes addressing audience. Ian Ferrier waves to audience and exits via stage right. Camera quickly pans across applauding audience.\nHieronymus Borscht Nonet"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "df08b2a5-53e3-4e5a-94bf-9aa3c60a5551",
+      "start_time": 6598,
+      "end_time": 6600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[The pianist of the Hieronymus Borscht Nonet plays unknown composition on piano.] | Video description: Camera shifts downward and blurs from the speed of its movement. Audience members' feet and stools.\n[Unknown]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "192d124c-8b65-4738-a9df-ced45d7953d8",
+      "start_time": 6600,
+      "end_time": 6660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Ambient sounds (white noise).] | Video Description: Camera cut. VCR static.\n[END]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b6df87a0-2c9a-4e7b-a7d5-0073bab8372f",
+      "start_time": 6697,
+      "end_time": 6698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording.]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ],
   "set": "Default",
   "event_id": "24f24ae7-ea32-4930-8271-872a5a5bc1fb",
   "source_id": "2e58bae1-60a3-420c-a4a7-1c13d8b2f590"
