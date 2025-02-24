@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-24T01:15:10.027Z",
+  "created_by": "spokenweb",
+  "title": "bissett test 3",
+  "slug": "bissett-test-3",
+  "updated_at": "2025-02-24T01:15:10.027Z",
+  "updated_by": "spokenweb",
+  "parent": "6331188b-3613-4de7-8190-170154af5b00",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "b5980a16-509f-4be9-9d68-60d444c6c79f"
+  }
+}
